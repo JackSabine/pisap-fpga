@@ -1,3 +1,3 @@
 [submodule "fpga-shells"]
 	path = fpga-shells
-	url = https://github.com/chipsalliance/rocket-chip-fpga-shells/tree/474ad19113b89ed5679695b269acdb011b9b871a
+	url = https://github.com/chipsalliance/rocket-chip-fpga-shells.git
