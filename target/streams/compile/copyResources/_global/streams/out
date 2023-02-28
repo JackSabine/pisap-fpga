@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/kprintf.c,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/kprintf.c)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/kprintf.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/kprintf.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/head.S,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/head.S)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/common.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/common.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/sd.c,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/sd.c)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/Makefile,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/Makefile)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/include/const.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/include/const.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/include/platform.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/include/platform.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/include/smp.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/include/smp.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/include/sections.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/include/sections.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/include/bits.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/include/bits.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/linker/memory.lds,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/linker/memory.lds)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/linker/sdboot.elf.lds,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/linker/sdboot.elf.lds)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/include/devices/uart.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/include/devices/uart.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/include/devices/gpio.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/include/devices/gpio.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/include/devices/spi.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/include/devices/spi.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/include/devices/clint.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/include/devices/clint.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/root/chipyard/fpga/src/main/resources/vcu118/sdboot/include/devices/plic.h,/root/chipyard/fpga/target/scala-2.12/classes/vcu118/sdboot/include/devices/plic.h)[0m

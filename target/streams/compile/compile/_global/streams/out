@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/root/chipyard/fpga/src/main/scala/vcu118/bringup/HarnessBinders.scala:58:39: non-variable type argument freechips.rocketchip.tilelink.TLBundle in type pattern freechips.rocketchip.util.HeterogeneousBag[freechips.rocketchip.tilelink.TLBundle] is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ports.head match { case tlPort: HeterogeneousBag[TLBundle] =>[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were 20 feature warnings; re-run with -feature for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
