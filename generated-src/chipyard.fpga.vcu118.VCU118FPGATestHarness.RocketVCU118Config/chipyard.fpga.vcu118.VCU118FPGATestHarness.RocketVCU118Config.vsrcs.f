@@ -1,0 +1,12 @@
+/root/chipyard/fpga/generated-src/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config.top.v
+/root/chipyard/fpga/generated-src/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config.harness.v
+/root/chipyard/fpga/generated-src/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config.top.mems.v
+/root/chipyard/fpga/generated-src/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config.harness.mems.v
+/root/chipyard/generators/sifive-blocks/vsrc/SRLatch.v
+/root/chipyard/fpga/fpga-shells/xilinx/common/vsrc/PowerOnResetFPGAOnly.v
+/root/chipyard/fpga/generated-src/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config/AnalogToUInt_1.v
+/root/chipyard/fpga/generated-src/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config/ClockDividerN.sv
+/root/chipyard/fpga/generated-src/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config/EICG_wrapper.v
+/root/chipyard/fpga/generated-src/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config/IOCell.v
+/root/chipyard/fpga/generated-src/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config/UIntToAnalog_1.v
+/root/chipyard/fpga/generated-src/chipyard.fpga.vcu118.VCU118FPGATestHarness.RocketVCU118Config/plusarg_reader.v
